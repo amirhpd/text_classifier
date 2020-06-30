@@ -1,5 +1,7 @@
 # Implementation and Evaluation of Text Classifiers
 
+![alt text](https://github.com/amirhpd/text_classifier/blob/master/graphs/cls1.png "Classifier")
+
 ## Abstract:
 This project aims to implement and compare different types of text classifiers on the news text data. A dataset of labeled text will be used to train the model. The evaluation of each method will be done using the test dataset. A comparison between the performance of the classifiers will be delivered.
 
