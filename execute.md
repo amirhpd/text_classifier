@@ -23,3 +23,11 @@
         * plot confusion matrix,
         * and save model file of the NN classifier, ex. *nn_tfidf_8000.h5*.
   5. To do inference step, copy the classifier model file and if needed, the vectorizer model file in [inference](/inference) folder. Then run one of the inference notebooks. Each notebook contain 25 piece of news article picked from [DW English](dw.com). The inference results will be printed.
+
+  <br />
+  <br />
+  <br />
+
+  \[1]: https://www.kaggle.com/amananandrai/ag-news-classification-dataset <br />
+  \[2]: https://www.kaggle.com/ryanxjhan/cbc-news-coronavirus-articles-march-26 <br />
+  \[3]: https://www.kaggle.com/jannalipenkova/covid19-public-media-dataset <br />
