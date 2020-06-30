@@ -39,6 +39,9 @@ This project aims to implement and compare different types of text classifiers o
 5. **Evaluation:** Results of all different methods will be compared. A benchmark based on the parameters of train/test accuracy, memory usage, and processing time will be delivered.
 
 <br />
+Follow [this](execute.md) guide to execute the files.
+
+<br />
 <br />
 <br />
 
