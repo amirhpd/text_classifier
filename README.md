@@ -43,6 +43,7 @@ This project aims to implement and compare different types of text classifiers o
 <br />
 
 Follow [this](execute.md) guide to execute the files.
+[Here](Implementation and Evaluation of Text Classifiers.pdf) is the slide set (subject to copyright)
 
 <br />
 <br />
